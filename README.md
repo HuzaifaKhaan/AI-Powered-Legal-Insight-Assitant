@@ -1,5 +1,8 @@
 # JusticeAI
 
+![work2](https://github.com/user-attachments/assets/92e28c8c-e10b-4a44-af75-5729e06b6ae0)
+
+
 JusticeAI is a Flask-based application that reads the Constitution of Pakistan and generates responses based on user input. It identifies keywords in the constitution and uses a generative AI model (Gemini) to provide answers in the context of the constitution.
 
 ## Technologies Used
